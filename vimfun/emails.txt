@@ -1,0 +1,13 @@
+first name,last name,email
+drew,neil,drew@vimcasts.org
+jane,doe,jane@example.com
+john,smith,john@example.com
+
+this is a test
+
+emails.txt
+ex_modelloop.js
+hello.sh
+seq.txt
+
+
